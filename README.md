@@ -1,9 +1,13 @@
-### Hi friend! I'm Lauren! 👋
+### Welcome! I'm Lauren! 👋
 
-Welcome to my GitHub! I'm a Denver-based Full Stack Software Engineer with a background in the nonprofit and healthcare industries. When I'm not coding, I enjoy reading books, drinking craft beer, and watching a little too much TV (ideally I have a small animal on my lap while participating in any of the aforementioned activities).
+I'm a Denver-based Full Stack Software Engineer with a background in the nonprofit and healthcare industries. When I'm not coding, I enjoy reading books, drinking craft beer, and watching a little too much TV (ideally I have a small animal on my lap while participating in any of the aforementioned activities).
 
-## Tools and Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+### Tools and Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,vite,bootsrap,tailwind,css,html,py,flask,sqlite,linux,vscode,powershell,postman,replit)](https://skillicons.dev)
+
+### Let's Connect!
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lslayman/)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/lslayman)
 
 <!--
 
