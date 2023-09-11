@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi friend! I'm Lauren! 👋
+
+Welcome to my GitHub! I'm a Denver-based Full Stack Software Engineer with a background in the nonprofit and healthcare industries. When I'm not coding, I enjoy reading books, drinking craft beer, and watching a little too much TV (ideally I have a small animal on my lap while participating in any of the aforementioned activities).
+
+## Tools and Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 
 <!--
-**lslayman/lslayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: ...
 -->
