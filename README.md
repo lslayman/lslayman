@@ -1,6 +1,12 @@
 ### Welcome! I'm Lauren! 👋
 
-I'm a Denver-based Full Stack Software Engineer with a background in the nonprofit and healthcare industries. When I'm not coding, I enjoy reading books, drinking craft beer, and watching a little too much TV (ideally I have a small animal on my lap while participating in any of the aforementioned activities).
+I'm a Denver-based Full Stack Software Engineer with a love of learning -- I'm pretty much always taking a course, reading a book, or listening to a podcast on something new.
+
+- 🔭 I’m currently working on a CLI version of "Baby Billy's Bible Bonkers" (as a fun little nod to The Righteous Gemstones)
+- 🌱 I’m currently learning Data Analysis & Tableau
+- 💬 Ask me about my favorite podcasts!
+- 😄 Pronouns: She/Her/Hers
+- ⚡ Fun fact: I come from a family of homebrewers and all-around beer lovers. Our family's house keeps 8 beers on tap at all times!
 
 ### Tools and Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,vite,bootsrap,tailwind,css,html,py,flask,sqlite,linux,vscode,powershell,postman,replit)](https://skillicons.dev)
